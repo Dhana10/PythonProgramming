@@ -1,1 +1,6 @@
-print("Hello, World. This is Dhana Shekhar Jangampally AI Data Cloud Engineering. With experience in Developing advance Statistical ML and Generative AI Models \n ")
+print(
+    "Hello, World! 👋\n"
+    "This is Dhana Shekhar Jangampally.\n"
+    "I am an AI, Data & Cloud Engineer with experience in developing "
+    "advanced Statistical ML and Generative AI models."
+)
